@@ -1,0 +1,140 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "video_1",
+      "format": "video",
+      "placements": ["interstitial", "rewarded"],
+      "media_url": "https://babakdriver.xyz/house-ads-2/twmedia/video_1.mp4",
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Build higher, time every move and reach the top!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "video_2",
+      "format": "video",
+      "placements": ["interstitial", "rewarded"],
+      "media_url": "https://babakdriver.xyz/house-ads-2/twmedia/video_2.mp4",
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/Interstitial_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Stack fast, stay focused and master every tower challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Test your skills and take on the real tower challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/Interstitial_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Make every move count and push your tower higher!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/Interstitial_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Take on tower-building challenges and aim for a new record!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_1",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Build fast, move smart and beat your best tower score!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_2",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Experience exciting tower challenges and precise timing!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/BannerAd_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Play fast and master every tower challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/BannerAd_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Take on the ultimate tower challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads-2/twmedia/BannerAd_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Build higher, score better and keep the tower growing!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "banner_text_1",
+      "format": "text",
+      "placements": ["banner"],
+      "icon_url": "https://babakdriver.xyz/house-ads-2/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Fast gameplay, tower action and endless fun!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    }
+  ]
+}
